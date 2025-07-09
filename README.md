@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Discord Bot for Pella.app Hosting
 
 ## Setup
@@ -33,3 +34,6 @@
 ## Notes
 - Never commit your `.env` file or bot token to version control.
 - For more commands and features, split code into separate files as your bot grows. 
+=======
+# NormalBot
+>>>>>>> e60f1d509802e1eb973fb5a94851c8c0293e19ee
